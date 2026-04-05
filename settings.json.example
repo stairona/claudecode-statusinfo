@@ -1,0 +1,6 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "node /Users/YOUR_USERNAME/.claude/helpers/ctx-statusline.cjs"
+  }
+}
